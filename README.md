@@ -22,5 +22,13 @@ Kaggle OTTO 벼락치기용
   
 협업 필터링
 
+- 장점
+  - 도메인 지식 불필요.
+  - 모델 덕에 다른 관심사도 추천 항목으로 뜰 수 있음.
+  - 내용적 특징 추출을 필요로 하지 않음.
+- 단점
+  - 새로운 (user, item) 페어가 있을 때 이를 학습하기 이전이라면 embedding을 형성할 수 없음
+  - Cold-start problem으로 자주 불리는 문제
+  - Query/Item의 side features를 포함하기 힘들다
 
 딥러닝 기반 추천
