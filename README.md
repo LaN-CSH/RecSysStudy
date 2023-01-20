@@ -22,6 +22,8 @@ Kaggle OTTO 벼락치기용
   
 협업 필터링
 
+Matrix Factorization을 사용
+
 - 장점
   - 도메인 지식 불필요.
   - 모델 덕에 다른 관심사도 추천 항목으로 뜰 수 있음.
