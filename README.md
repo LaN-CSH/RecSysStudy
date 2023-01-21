@@ -34,3 +34,5 @@ Matrix Factorization을 사용
   - Query/Item의 side features를 포함하기 힘들다
 
 딥러닝 기반 추천
+
+- Softmax 등 Embedding에 있어서 DNN 적 특성 적용 가능
