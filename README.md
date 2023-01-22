@@ -8,6 +8,9 @@ https://developers.google.com/machine-learning/recommendation/overview
 
 https://github.com/lsjsj92/recommender_system_with_Python
 
+https://www.kaggle.com/competitions/otto-recommender-system/discussion/363544
+
+
 Kaggle OTTO 벼락치기용
 
 
