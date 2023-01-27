@@ -10,6 +10,7 @@ https://github.com/lsjsj92/recommender_system_with_Python
 
 https://www.kaggle.com/competitions/otto-recommender-system/discussion/363544
 
+https://www.kaggle.com/code/utm529fg/otto-tuning-candidate-rerank-model-lb-0-577 - Re-rank Model
 
 Kaggle OTTO 벼락치기용
 
