@@ -34,6 +34,8 @@ Kaggle OTTO 벼락치기용
 
 Matrix Factorization을 사용
 
+Embedding을 학습하게 하는 것. 특징을 따로 안뽑아도 된다.
+
 - 장점
   - 도메인 지식 불필요.
   - 모델 덕에 다른 관심사도 추천 항목으로 뜰 수 있음.
