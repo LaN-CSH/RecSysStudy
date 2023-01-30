@@ -48,3 +48,8 @@ Embedding을 학습하게 하는 것. 특징을 따로 안뽑아도 된다.
 딥러닝 기반 추천
 
 - Softmax 등 Embedding에 있어서 DNN 적 특성 적용 가능
+
+
+Task
+
+EDA 방식과 Hyperparameter Tuning 방법 살펴보기
